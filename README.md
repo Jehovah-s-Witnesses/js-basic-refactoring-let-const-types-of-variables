@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-refactoring-let-const-types-of-variables
 
-## Text
+## Fix types of variable. Use let for edited values and const for not editable values
 
 ## We have a problem with loading script and access to html element due loading. Please, fix the place of script in html file
 
